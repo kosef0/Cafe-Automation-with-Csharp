@@ -15,6 +15,8 @@
 </div>
 
 ---
+<img width="499" height="844" alt="Ekran görüntüsü 2025-11-13 134045" src="https://github.com/user-attachments/assets/94677acf-4af2-49ca-844b-d55cac275956" />
+
 
 ## 🔐 Giriş Bilgileri
 
